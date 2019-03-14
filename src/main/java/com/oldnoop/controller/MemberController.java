@@ -69,7 +69,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 登录
+	 * 登录吧
 	 * 
 	 * @param ma
 	 * @param password
