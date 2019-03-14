@@ -59,7 +59,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 跳转到登录页面
+	 * 跳转到登录页面( ⊙ o ⊙ )啊！
 	 * 
 	 * @return
 	 */
